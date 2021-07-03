@@ -1,0 +1,19 @@
+body{
+    text-align:center;
+    background-color: crimson;
+  }  
+
+h1{
+  font-size: 50px;
+}  
+ 
+p{
+  font-size: 30px;
+}  
+  
+img{
+  height: 300px;
+  width: 300px;
+}
+  
+  
